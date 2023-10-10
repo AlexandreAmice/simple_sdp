@@ -1,0 +1,3 @@
+numpy~=1.26.0
+cvxpy [CBC,CVXOPT,GLOP,GLPK,GUROBI,MOSEK,PDLP,XPRESS]~=1.4.0
+networkx~=3.1
